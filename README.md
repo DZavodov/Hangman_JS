@@ -8,5 +8,5 @@
  
 
 ### Инструкция по установке и запуску 
-* Перейти по ссылке https://vitaliy-ryazin.github.io/hangman_JS/;
+* Перейти по ссылке https://dzavodov.github.io/Hangman_JS/;
 * Следовать дальнейшим указаниям игры;
